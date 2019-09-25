@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Empty files take up unnecessary space"
 Use the left arrow to go back!
